@@ -16,6 +16,21 @@
     }
   ],
 
+  "words":[
+    {
+      "id":1,
+      "word":"five",
+      "translate":"cinco",
+      "categories":"Numbers"
+    },
+    {
+      "id":2,
+      "word":"two",
+      "translate":"dois",
+      "categories":"Numbers"
+    }
+  ],
+
   "Categories": [
     {
       "id": 1,
